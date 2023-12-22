@@ -17,6 +17,7 @@ header{
 }
 main{
     padding: 0% 2% 5% 2%;
+    background-color: rgb(42, 19, 19);
 }
 #Title-Text{
     font-size: medium;
@@ -41,7 +42,7 @@ section{
     background: transparent;
     position: relative;
     width: 100%;
-    height: 90vh;
+    height: 70vh;
     border-radius: 0px;
     overflow: hidden;
     background-color: rgb(255, 255, 255);
@@ -112,30 +113,8 @@ section{
     100% {
       transform: rotate(360deg);
     }
-  }
+}
+#Tools{
+  text-align: center;
 
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+}
