@@ -1,3 +1,31 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
 body{
-    background-color: blue ;
+    background-color: rgb(255, 255, 255) ;
+    
+}
+header{
+    width: 100%;
+    height: auto;
+    padding: 0% 2%;
+    text-align: center;
+    background-color: white;
+    box-shadow: 2px 0px 20px rgba(2, 15, 255, 0.516);
+}
+#Logo-Img{
+    width: 25%;
+}
+main{
+    padding: 7% 2%;
+    text-align: center;
+}
+#Title-Text{
+    font-size: medium;
+}
+#Perfil-Img{
+    width: 70%;
+    
 }
