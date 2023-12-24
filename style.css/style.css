@@ -135,14 +135,14 @@ section{
   gap: 15px;
   width: 100%;
   background-color: rgba(255, 255, 255, 0.281);
-  height: auto;
+  height: 100px;
   padding: 0px 0px 20% 0px ;
   margin-top: 4%;
   overflow: hidden;
   position: relative;
   overflow: hidden;
   border-radius: 0px;
-  margin-bottom: 0px;
+  margin-bottom: 5%;
 }
 .content::before {
   content: "";
