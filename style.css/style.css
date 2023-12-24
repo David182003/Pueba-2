@@ -39,13 +39,13 @@ section{
 }
 #Frase-Content{
   background-color:rgba(255, 255, 255, 0);
-  padding: 2%;
+  padding: 3%;
   text-align: center;
   justify-content: center;
   height: 10vh;
   width: 100%;
   overflow: hidden;
-  margin-top: -13vh;
+  margin-top: -10vh;
 }
 .e-card {
     margin: 100px auto;
@@ -311,7 +311,7 @@ section{
 }
 .Service-Redes-Content{
   text-align: center;
-  padding-top: 6%;
+  padding-top: 10%;
   justify-content: center;
   background-color: rgb(255, 255, 255);
 }
@@ -507,4 +507,5 @@ Article{
 }
 .Home{
   text-decoration: none;
+  color: rgb(0, 0, 0);
 }
